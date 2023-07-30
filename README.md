@@ -10,7 +10,6 @@ This is a face detection project that utilizes a Siamese Neural Network for accu
 - [Model Architecture](#model-architecture)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
