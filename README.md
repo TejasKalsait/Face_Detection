@@ -1,6 +1,6 @@
-# Face Detection using Siamese Neural Network
+# Face Recognition using Siamese Neural Network
 
-This is a face detection project that utilizes a Siamese Neural Network for accurate and efficient face detection. The project is implemented in a Jupyter Notebook, making it easy to run and experiment with.
+This is a face recognition project that utilizes a Siamese Neural Network for accurate and efficient face detection. The project is implemented in a Jupyter Notebook, making it easy to run and experiment with.
 
 ## Table of Contents
 - [Introduction](#introduction)
