@@ -1,6 +1,6 @@
-# Face Recognition using Siamese Neural Network
+# Face Verification and Recognition using Siamese Neural Network
 
-This is a face recognition project that utilizes a Siamese Neural Network for accurate and efficient face detection. The project is implemented in a Jupyter Notebook, making it easy to run and experiment with.
+This is a face recognition project that utilizes a Siamese Neural Network for accurate and efficient face recognition. The project is implemented in a Jupyter Notebook, making it easy to run and experiment with.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -13,7 +13,7 @@ This is a face recognition project that utilizes a Siamese Neural Network for ac
 
 ## Introduction
 
-Face detection is a crucial computer vision task that involves locating and identifying human faces within images or video frames. The Siamese Neural Network is a powerful architecture that learns to distinguish between pairs of images and can be applied effectively for face detection.
+Face Verification and Recognition is a crucial computer vision task that involves locating and identifying human faces within images or video frames. The Siamese Neural Network is a powerful architecture that learns to distinguish between pairs of images and can be applied effectively for face detection.
 
 This project focuses on utilizing a Siamese Neural Network to perform real-time face detection. The model is designed to identify whether two given images contain the same person's face or not, which is a fundamental concept in face recognition and verification tasks.
 
